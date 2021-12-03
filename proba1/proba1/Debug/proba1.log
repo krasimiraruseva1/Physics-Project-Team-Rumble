@@ -1,7 +1,0 @@
-﻿  proba1.cpp
-C:\Users\user\source\repos\proba1\proba1\proba1.cpp(20,9): warning C4101: 'V': unreferenced local variable
-proba1.obj : error LNK2019: unresolved external symbol "void __cdecl setup(void)" (?setup@@YAXXZ) referenced in function "void __cdecl five(void)" (?five@@YAXXZ)
-proba1.obj : error LNK2019: unresolved external symbol "void __cdecl structure(void)" (?structure@@YAXXZ) referenced in function "void __cdecl five(void)" (?five@@YAXXZ)
-proba1.obj : error LNK2019: unresolved external symbol "void __cdecl input(void)" (?input@@YAXXZ) referenced in function "void __cdecl five(void)" (?five@@YAXXZ)
-proba1.obj : error LNK2019: unresolved external symbol "void __cdecl algor(void)" (?algor@@YAXXZ) referenced in function "void __cdecl five(void)" (?five@@YAXXZ)
-C:\Users\user\source\repos\proba1\Debug\proba1.exe : fatal error LNK1120: 4 unresolved externals
